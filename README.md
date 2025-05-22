@@ -1,10 +1,17 @@
 <div>
+<img width=700% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6409ba&descAlign=0&animation=twinkling&descAlignY=38&s"/>
+
+
+
 <a href = "https://github.com/Marisrch">
   
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marisrch&show_icons=true&theme=radical">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisrch&layout=donut&theme=radical" />
+<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=marisrch&show_icons=true&theme=radical">
+<img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisrch&layout=donut&theme=radical" />
 
-#
+
+
+
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-JAVA" height="60" width="70"  
@@ -24,3 +31,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <img align="center" alt="Mari-Csharp" height="50" width="60"   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<img width=700% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6409ba&descAlign=0&animation=twinkling&descAlignY=38&section=footer"/>
