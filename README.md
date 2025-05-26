@@ -10,12 +10,13 @@
 
 
 <div>
-  <h1 align="center">  Linguagens </h1>
+
 </div>
 
 
 </div> 
 <div align="center", style="display: inline_block "><br>
+    <h1 align="center">  Linguagens 💻 </h1>
   <img align="center" alt="Mari-JAVA" height="60" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Mari-AndroidStudio" height="50" width="60"  
