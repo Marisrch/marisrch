@@ -12,8 +12,8 @@
 
 
 
-</div>
-<div style="display: inline_block"><br>
+</div> 
+<div align="center", style="display: inline_block "><br>
   <img align="center" alt="Mari-JAVA" height="60" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Mari-AndroidStudio" height="50" width="60"  
