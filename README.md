@@ -29,8 +29,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/Marisrch/APIConeccta.git"> <img align="center" alt="Mari-PHP" height="50" width="60"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" ></a>
-  <a href=""> <img align="center" alt="Mari-Python" height="50" width="60"  
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
   <a href="https://github.com/Marisrch/Lojinhacsharp.git"> <img align="center" alt="Mari-Csharp" height="50" width="60"   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </a>
 
