@@ -1,7 +1,7 @@
 <div>
 <img width=700% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6409ba&descAlign=0&animation=twinkling&descAlignY=38&s"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo;Sou+Mariana+Sorroche;Estudando+para+ser+Desenvolvedora)](https://git.io/typing-svg)
 
 <a href = "https://github.com/Marisrch">
   
