@@ -32,5 +32,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
   <a href="https://github.com/Marisrch/Lojinhacsharp.git"> <img align="center" alt="Mari-Csharp" height="50" width="60"   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </a>
 
+ 
+<div> 
+   <h1 align="center">  Contatos 📱  </h1>
+  <a href="https://www.linkedin.com/in/marianasorroche/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marianasorrochedelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marihh.sorroche" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ 
+</div>
+
 </div>
 <img width=700% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6409ba&descAlign=0&animation=twinkling&descAlignY=38&section=footer"/>
