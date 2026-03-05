@@ -1,3 +1,5 @@
+<img width=700% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6409ba&descAlign=0&animation=twinkling&descAlignY=38&section=header"/>
+
 <div>
 
 
@@ -5,10 +7,7 @@
 
 <a href = "https://github.com/Marisrch">
 
-<div align="center">
-<img  height="200cm" src="https://github-readme-stats.vercel.app/api?username=marisrch&show_icons=true&theme=radical">
-<img  height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisrch&layout=donut&theme=radical" />
-</div>
+
 
 
 </div> 
