@@ -13,7 +13,7 @@
 </div> 
 <div align="center"><br>
     <h1 align="center">Linguagens</h1>
-  <a href="https://github.com/Marisrch/App_Medica.git"> <img align="center" alt="Mari-JAVA" height="60" width="70"  
+  <a href="https://github.com/Marisrch/FinLite.git"> <img align="center" alt="Mari-JAVA" height="60" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> </a>
    <a href="https://github.com/Marisrch/BikeON.git"> <img align="center" alt="Mari-AndroidStudio" height="50" width="60"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"> </a>
